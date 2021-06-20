@@ -22,5 +22,32 @@ Just Connect to a Mobile Adaptor or any Supply or Battery of 5v and then You can
 
 
 This Device is Specially Designed for Covid 19 to use as a resource
-:-------------------------:|:-------------------------:|:-------------------------:
-![](./capture21.JPG)|![](./Capture22.JPG)|![](./Capture23.JPG)
+<table>
+  <tr>
+    <td>Welcome Screen</td>
+     <td>Display Screen</td>
+     <td>Temperature Screen</td>
+  </tr>
+  <tr>
+    <td><img src="capture21.JPG" width=270 height=480></td>
+    <td><img src="capture22.JPG" width=270 height=480></td>
+    <td><img src="capture11.JPG" width=270 height=480></td>
+  </tr>
+  <tr>
+     <td>Maps Layout</td>
+     <td>Slot Booking</td>
+     <td>Booking Details</td>
+  </tr>
+  <tr>
+    <td><img src="4.png" width=270 height=480></td>
+    <td><img src="5.png" width=270 height=480></td>
+    <td><img src="6.png" width=270 height=480></td>
+  </tr>
+  <tr>
+     <td>Booking Done</td>
+    <tr>
+  <td><img src="7.png" width=270 height=480></td>
+  </tr>
+ 
+ </table>
+ 
