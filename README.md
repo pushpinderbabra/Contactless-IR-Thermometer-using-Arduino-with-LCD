@@ -23,8 +23,8 @@ Just Connect to a Mobile Adaptor or any Supply or Battery of 5v and then You can
 
 This Device is Specially Designed for Covid 19 to use as a resource
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./capture11.JPG)|![](./Capture12.JPG)|![](./Capture.JPG)
+![](./capture11.JPG)|![](./Capture12.JPG)|![](./Capture13.JPG)
 
 Ask about a country   |Details Saved to DynamoDB   |  Ask About a State
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./Capture14.JPG)|![](./Capture15.JPG)|![](./Capture13.JPG)
+![](./Capture14.JPG)|![](./Capture15.JPG)|![](./Capture.JPG)
