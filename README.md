@@ -34,13 +34,13 @@ This Device is Specially Designed for Covid 19 to use as a resource
     <td><img src="capture23.JPG" width=270 height=480></td>
   </tr>
   <tr>
-     <td>Maps Layout</td>
-     <td>Slot Booking</td>
-     <td>Booking Details</td>
+     <td>Arduino Nano</td>
+     <td>MLX60514 IR Sensor</td>
+     <td>Circuit Wiring</td>
   </tr>
   <tr>
     <td><img src="capture12.JPG" width=270 height=480></td>
-    <td><img src="capture13.JPG" width=270 height=480></td>
+    <td><img src="capture11.JPG" width=270 height=480></td>
     <td><img src="capture14.JPG" width=270 height=480></td>
   </tr>
  
